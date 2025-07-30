@@ -1,0 +1,36 @@
+** start of index.html **
+
+<!DOCTYPE html>
+
+<html lang="en">
+ <head>
+
+   <title>How to make a peanut butter and jelly sando</title>
+   <meta charset="UTF-8">
+ </head>
+ <body>
+   <h1> How to make a Peanut butter and jelly Sando</h1>
+   <p> The easy way</p>
+   <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt= "you will not need any of these">
+
+   <h2> Ingredients </h2>
+  <ul>
+  <li>gather bread (at least two pieces)</li>
+  <li>gather peanut butter</li>
+  <li>gather jelly (strawberry preffered)</li>
+  <li>gather s spoon and a butter knife (if you do not have a butter knife you cannot continue with this recipe)</li>
+    </ul>
+  <h2>Instructions</h2>
+    <ol>
+      <li>lay the two pieces of bread on a plate</li>
+      <li>use your spoon to to smear (spread) your jelly on one piece of bread</li>
+      <li>use the <strong>required</strong> butter knife to smear (yes same as spread) your peanut butter on the other piece of bread</li>
+      <li>Put the sando together by making the the peanut butter and jelly touch (I was going to put kiss but I think you got the memo)</li>
+      <li> Use the same butter knife to cut the sando in half (either cross or up and down, up to you)
+        <li>enjoy your peanut butter and jelly Sando and clean up after yourself.(should not have had to write that in, but I know you, ya slob!)
+      </ol>
+   </body>
+</html>
+
+** end of index.html **
+
